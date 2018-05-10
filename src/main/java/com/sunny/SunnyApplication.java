@@ -1,4 +1,4 @@
-package com.sunny.refdata;
+package com.sunny;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

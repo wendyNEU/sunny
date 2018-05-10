@@ -7,9 +7,10 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.sunny.refdata.SunnyApplication</config>
+		<config>src/main/java/com/sunny/refdata/SunnyApplication.java</config>
 	</configs>
 	<autoconfigs>
+		<config>java:com.sunny.SunnyApplication</config>
 	</autoconfigs>
 	<configSets>
 	</configSets>
